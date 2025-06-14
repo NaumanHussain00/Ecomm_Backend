@@ -5,7 +5,7 @@ This is a Node.js-based backend for an E-commerce platform. It handles user auth
 ---
 
 ## 📁 Project Structure
-
+```bash
 my-ecomm-backend/
 ├── config/
 ├── controllers/
@@ -23,7 +23,7 @@ my-ecomm-backend/
 ├── server.js
 ├── package.json
 ├── package-lock.json
-
+```
 ---
 
 ## ⚙️ Tech Stack
